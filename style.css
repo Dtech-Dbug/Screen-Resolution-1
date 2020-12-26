@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  margin-top: 2rem;
+  background: linear-gradient(to right,orange,yellow);
+  
+  
+}
+
+  
+
+
+  h1{
+    font-size: 30px;
+    background: linear-gradient(to right,red,orange);
+  background-clip: text;
+  text-fill-color: transparent;
+  }
